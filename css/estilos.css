@@ -5,3 +5,13 @@ body {
     margin: 0;
     padding: 0;
 } 
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+}
+
+header h1 {
+    color: #E50914;
+    margin: 0;
+}
